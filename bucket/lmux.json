@@ -1,0 +1,22 @@
+{
+    "version": "0.8.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/sbcinnovation/lmux/releases/download/v0.8.2/lmux_0.8.2_windows_amd64.zip",
+            "bin": [
+                "lmux.exe"
+            ],
+            "hash": "fef33dc1e1e7d4f79433c28c61a5021b6d8a7d0d4a237dcbce7b7662c551f9bb"
+        },
+        "arm64": {
+            "url": "https://github.com/sbcinnovation/lmux/releases/download/v0.8.2/lmux_0.8.2_windows_arm64.zip",
+            "bin": [
+                "lmux.exe"
+            ],
+            "hash": "7acec13603797c016163c88efc47832a4b9db40107f8a59bc56648141450b64b"
+        }
+    },
+    "homepage": "https://github.com/sbcinnovation/lmux",
+    "license": "MIT",
+    "description": "A fast, simple, cross-platform tmux session manager"
+}
