@@ -1,12 +1,12 @@
 {
-    "version": "0.8.1",
+    "version": "0.8.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/sbcinnovation/gitp/releases/download/v0.8.1/gitp_0.8.1_windows_amd64.zip",
+            "url": "https://github.com/sbcinnovation/gitp/releases/download/v0.8.2/gitp_0.8.2_windows_amd64.zip",
             "bin": [
                 "gitp.exe"
             ],
-            "hash": "818850dd749511d74ed5f7f67e1e7311ff2848e45dec21ba2b48bc3560544727"
+            "hash": "c2bc44e6a2e1778e54af905df3b5e12d25bc6f93ffa382ad83ec11b5a8846463"
         }
     },
     "homepage": "https://github.com/sbcinnovation/gitp",
