@@ -1,12 +1,12 @@
 {
-    "version": "8.2.9",
+    "version": "8.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/sbcinnovation/squoosh-cli/releases/download/v8.2.9/squoosh_8.2.9_windows_amd64.zip",
+            "url": "https://github.com/sbcinnovation/squoosh-cli/releases/download/v8.3.0/squoosh_8.3.0_windows_amd64.zip",
             "bin": [
                 "squoosh.exe"
             ],
-            "hash": "2c66409fe817971b2a47280e0d20446121876ef66e42f53143257504d757dbac"
+            "hash": "3e08af09254bd09692327e6ca75a02db1757f98e8275cb5288493561a112e495"
         }
     },
     "homepage": "https://github.com/sbcinnovation/sbc-squoosh-cli",
