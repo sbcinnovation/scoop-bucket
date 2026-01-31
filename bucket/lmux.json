@@ -1,19 +1,19 @@
 {
-    "version": "0.8.2",
+    "version": "1.0.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/sbcinnovation/lmux/releases/download/v0.8.2/lmux_0.8.2_windows_amd64.zip",
+            "url": "https://github.com/sbcinnovation/lmux/releases/download/v1.0.0/lmux_1.0.0_windows_amd64.zip",
             "bin": [
                 "lmux.exe"
             ],
-            "hash": "fef33dc1e1e7d4f79433c28c61a5021b6d8a7d0d4a237dcbce7b7662c551f9bb"
+            "hash": "b50e567dc2d14afb018a45133fc0a518c4ba7a7e56307bc8581dc11091213dd8"
         },
         "arm64": {
-            "url": "https://github.com/sbcinnovation/lmux/releases/download/v0.8.2/lmux_0.8.2_windows_arm64.zip",
+            "url": "https://github.com/sbcinnovation/lmux/releases/download/v1.0.0/lmux_1.0.0_windows_arm64.zip",
             "bin": [
                 "lmux.exe"
             ],
-            "hash": "7acec13603797c016163c88efc47832a4b9db40107f8a59bc56648141450b64b"
+            "hash": "1be5ee6b68032e95526e1295e991727dad2ad7394e0b5f3400bf902c85e1b837"
         }
     },
     "homepage": "https://github.com/sbcinnovation/lmux",
